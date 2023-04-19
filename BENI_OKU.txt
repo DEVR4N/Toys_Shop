@@ -1,0 +1,8 @@
+
+* * * MAINACTIVITY.KT  * * *  DOSYASI ***  
+
+MainActivity.kt  Class'ında ekle() fonksiyonu mevcutttur. Bu fonksiyon ürünleri yeniden telefon a eklemek içindir. 
+
+Uygulama 1 kez çalıştırıldıktan sonra bu fonksiyon silinmeli veya yorum satırı haline getirilmelidir. Aksi taktirde uygulama ürünleri tekrar ekleyecekti.
+
+Buda aynı ürünleri defalarca listelemeye sebeb olmaktadır, lütfen 1 kez çalıştırdıktan sonra ekle() fonksiyonunu kaldırınız...
